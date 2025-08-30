@@ -125,6 +125,7 @@ TRAINING COMPLETE!
 Final Validation Accuracy: 97.82%
 Total Training Time: 54.3 minutes
 ```
+![Alt text](./predictions.png)
 
 ## Troubleshooting
 
