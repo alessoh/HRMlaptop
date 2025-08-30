@@ -1,0 +1,23 @@
+# Core dependencies for Windows CPU training
+# PyTorch - install separately with:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+
+torch
+torchvision
+
+# Use numpy that comes with PyTorch (already installed)
+# numpy is already installed with PyTorch
+
+# Other dependencies - compatible with Python 3.12
+matplotlib
+psutil
+tqdm
+
+# Optional but recommended
+pandas
+scikit-learn
+# Pillow is already installed with torchvision
+
+# For monitoring and visualization
+seaborn
+plotly
